@@ -22,5 +22,5 @@ I'm a **Digital Games Technology** passionate about crafting immersive experienc
 
 ### 📊 GitHub Stats  
 <a href="http://www.github.com/TierryW">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TierryWillis&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TierryW&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
