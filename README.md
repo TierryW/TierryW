@@ -21,6 +21,4 @@ I'm a **Digital Games Technology** passionate about crafting immersive experienc
 <p align="left"><a href="https://www.github.com/TierryW" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/tierry-souza-333974288/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### 📊 GitHub Stats  
-<a href="http://www.github.com/TierryW">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TierryW&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TierryW&theme=highcontrast&hide_border=falso&short_numbers=falso&hide_longest_streak=true" alt="GitHub Streak" /></a>
