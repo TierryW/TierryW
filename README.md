@@ -4,7 +4,7 @@
 
 ### 🎮 Game Developer | 📊 Aspiring Data Scientist  
 
-I'm a **Digital Games Technology** passionate about crafting immersive experiences and pushing the boundaries of interactive storytelling. Recently, I’ve been diving deep into the world of **Data Science**, fascinated by how data-driven insights can revolutionize industries, especially gaming, such as eSports!  
+I'm a **Digital Games Technology** passionate about crafting immersive experiences and pushing the boundaries of interactive storytelling and gameplay. Recently, I’ve been diving deep into the world of **Data Science**, fascinated by how data-driven insights can revolutionize industries, especially gaming, such as eSports!  
 
 ### 🚀 What drives me?  
 - 🎮 Building **games** that blend creativity with technology  
